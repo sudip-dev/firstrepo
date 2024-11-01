@@ -1,4 +1,4 @@
 # firstrepo
 This is my first demo repo
 <br>
-author -sudip shrestha
+author -sudip shrestha(sudip-dev)
